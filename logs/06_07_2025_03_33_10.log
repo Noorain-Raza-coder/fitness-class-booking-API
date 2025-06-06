@@ -1,0 +1,18 @@
+[2025-06-07 03:33:27,295] - 67 - root - INFO - Request is made to get all bookings.
+[2025-06-07 03:33:27,295] - 72 - root - WARNING - No booking is found.
+[2025-06-07 03:34:39,293] - 24 - root - INFO - Request is made to get all the classes.
+[2025-06-07 03:34:39,293] - 29 - root - INFO - A list of 4 classes is returned.
+[2025-06-07 03:34:48,168] - 47 - root - INFO - Request is made to get available classes.
+[2025-06-07 03:34:48,169] - 24 - root - INFO - Request is made to get all the classes.
+[2025-06-07 03:34:48,169] - 29 - root - INFO - A list of 4 classes is returned.
+[2025-06-07 03:34:48,170] - 51 - root - INFO - a list of 3 is returned.
+[2025-06-07 03:34:56,054] - 34 - root - INFO - Request is received : {'id': 2, 'class_id': 1, 'client_name': 'zain', 'client_email': 'zain@example.com'}
+[2025-06-07 03:34:56,056] - 44 - root - INFO - Slot is booked for a class ID : 1
+[2025-06-07 03:35:11,575] - 47 - root - INFO - Request is made to get available classes.
+[2025-06-07 03:35:11,575] - 24 - root - INFO - Request is made to get all the classes.
+[2025-06-07 03:35:11,576] - 29 - root - INFO - A list of 4 classes is returned.
+[2025-06-07 03:35:11,576] - 51 - root - INFO - a list of 3 is returned.
+[2025-06-07 03:35:27,715] - 95 - root - INFO - Request is made to get booking details for email id : zain@example.com
+[2025-06-07 03:35:27,716] - 100 - root - INFO - a list of 1 bookings is returned.
+[2025-06-07 03:35:33,724] - 67 - root - INFO - Request is made to get all bookings.
+[2025-06-07 03:35:33,724] - 69 - root - INFO - a list of 1 bookings is returned.

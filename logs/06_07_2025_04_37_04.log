@@ -1,0 +1,22 @@
+[2025-06-07 04:39:36,480] - 24 - root - INFO - Request is made to get all the classes.
+[2025-06-07 04:39:36,481] - 29 - root - INFO - A list of 4 classes is returned.
+[2025-06-07 04:41:01,271] - 47 - root - INFO - Request is made to get available classes.
+[2025-06-07 04:41:01,287] - 24 - root - INFO - Request is made to get all the classes.
+[2025-06-07 04:41:01,287] - 29 - root - INFO - A list of 4 classes is returned.
+[2025-06-07 04:41:01,287] - 51 - root - INFO - a list of 3 is returned.
+[2025-06-07 04:42:24,324] - 34 - root - INFO - Request is received : {'id': 101, 'class_id': 1, 'client_name': 'noor', 'client_email': 'noor@example.com'}
+[2025-06-07 04:42:24,326] - 44 - root - INFO - Slot is booked for a class ID : 1
+[2025-06-07 04:43:12,945] - 47 - root - INFO - Request is made to get available classes.
+[2025-06-07 04:43:12,945] - 24 - root - INFO - Request is made to get all the classes.
+[2025-06-07 04:43:12,946] - 29 - root - INFO - A list of 4 classes is returned.
+[2025-06-07 04:43:12,946] - 51 - root - INFO - a list of 3 is returned.
+[2025-06-07 04:44:06,735] - 67 - root - INFO - Request is made to get all bookings.
+[2025-06-07 04:44:06,737] - 69 - root - INFO - a list of 1 bookings is returned.
+[2025-06-07 04:44:49,626] - 34 - root - INFO - Request is received : {'id': 102, 'class_id': 2, 'client_name': 'zain', 'client_email': 'zain@example.com'}
+[2025-06-07 04:44:49,628] - 44 - root - INFO - Slot is booked for a class ID : 2
+[2025-06-07 04:44:58,880] - 67 - root - INFO - Request is made to get all bookings.
+[2025-06-07 04:44:58,881] - 69 - root - INFO - a list of 2 bookings is returned.
+[2025-06-07 04:46:17,787] - 95 - root - INFO - Request is made to get booking details for email id : zain@example.com
+[2025-06-07 04:46:17,787] - 100 - root - INFO - a list of 1 bookings is returned.
+[2025-06-07 04:46:44,948] - 95 - root - INFO - Request is made to get booking details for email id : unknow@example.com
+[2025-06-07 04:46:44,950] - 98 - root - ERROR - No booking found for client email : unknow@example.com
